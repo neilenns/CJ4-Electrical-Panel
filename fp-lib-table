@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "CJ4-Electrical-Panel")(type "KiCad")(uri "${KIPRJMOD}/CJ4-Electrical-Panel.pretty")(options "")(descr ""))
+)
