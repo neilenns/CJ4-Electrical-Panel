@@ -6,7 +6,10 @@
 
   (paper "A4")
   (title_block
-    (rev "")
+    (title "CJ4 electrical panel")
+    (rev "@version@")
+    (comment 1 "Neil Enns")
+    (comment 2 "neile@live.com")
   )
 
   (layers
@@ -1949,7 +1952,7 @@
   (gr_arc (start 170.688 50.8) (mid 172.484051 51.543949) (end 173.228 53.34) (layer "Edge.Cuts") (width 0.1) (tstamp c73c7613-9204-490f-8db2-c65c1d852fa6))
   (gr_arc (start 173.228 110.744) (mid 172.484051 112.540051) (end 170.688 113.284) (layer "Edge.Cuts") (width 0.1) (tstamp d5e4519a-6c2a-4312-baa7-395373ccf3bd))
   (gr_arc (start 53.34 113.284) (mid 51.543949 112.540051) (end 50.8 110.744) (layer "Edge.Cuts") (width 0.1) (tstamp dc588c3d-5206-4af5-96df-dc33e470667e))
-  (gr_text "JLCJLCJLCJLC" (at 153.162 108.966) (layer "B.SilkS") (tstamp eb81d895-8ca8-401d-8f50-076b474aa5e3)
+  (gr_text "CJ4 electrical panel\nNeil Enns neile@live.com\n@date@\n@version@\nJLCJLCJLCJLC" (at 67.564 101.854) (layer "B.SilkS") (tstamp 2e7f41a0-cc13-4f55-915c-917e661f0cdf)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (gr_text "TEST" (at 112.021194 103.124) (layer "F.SilkS") (tstamp 09dcab4e-69e4-454a-a318-33a0608d05f4)

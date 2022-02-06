@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "CJ4 electrical panel")
+    (rev "@version@")
+    (comment 1 "Neil Enns")
+    (comment 2 "neile@live.com")
+  )
+
   (lib_symbols
     (symbol "Connector:AVR-ISP-6" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at -6.35 11.43 0)
