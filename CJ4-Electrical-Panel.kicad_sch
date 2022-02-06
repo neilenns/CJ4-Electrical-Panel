@@ -6,6 +6,7 @@
 
   (title_block
     (title "CJ4 electrical panel")
+    (date "2022-02-06")
     (rev "@version@")
     (comment 1 "Neil Enns")
     (comment 2 "neile@live.com")
