@@ -8,7 +8,6 @@
       "type": "shell",
       "command": "kibot",
       "args": [
-        "--verbose",
         "-c",
         ".kibot/release.kibot.yaml",
         "-b",
