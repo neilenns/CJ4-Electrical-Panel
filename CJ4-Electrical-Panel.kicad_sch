@@ -1137,7 +1137,7 @@
   )
 
   (no_connect (at 63.5 101.6) (uuid 4b42b984-e83b-4b9e-8987-22342cecfc5f))
-  (no_connect (at 63.5 104.14) (uuid 4b42b984-e83b-4b9e-8987-22342cecfc5f))
+  (no_connect (at 63.5 104.14) (uuid 4b42b984-e83b-4b9e-8987-22342cecfc60))
   (no_connect (at 134.62 36.83) (uuid 4bfd4c0b-e3f5-4b49-8aa9-33d4f4aa436c))
   (no_connect (at 63.5 83.82) (uuid 5c74417c-ad02-47f9-bc1e-e76d3140cff8))
   (no_connect (at 63.5 96.52) (uuid 5c74417c-ad02-47f9-bc1e-e76d3140cffa))
@@ -3193,7 +3193,7 @@
     (property "Datasheet" "~" (id 3) (at 166.37 67.31 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "JLC" "SOD-232F" (id 4) (at 166.37 67.31 0)
+    (property "JLC" "SOD-323F" (id 4) (at 166.37 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "LCSC" "C2128" (id 5) (at 166.37 67.31 0)
