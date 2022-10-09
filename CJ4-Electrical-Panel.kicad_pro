@@ -381,7 +381,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "CJ4-Electrical-Panel.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
